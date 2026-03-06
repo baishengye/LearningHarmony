@@ -2,15 +2,15 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "Hello World Harmony"
+      "value": "模块描述"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description Harmony"
+      "value": "应用描述"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label Harmony"
+      "value": "应用名称"
     }
   ]
 }

@@ -18,7 +18,7 @@
         "name": "EntryAbility", // 类似Activity 每个StagePage类似Compose中的组件
         "srcEntry": "./ets/entryability/EntryAbility.ets",
         "description": "$string:EntryAbility_desc",
-        "icon": "$media:layered_image",
+        "icon": "$media:logo",
         "label": "$string:EntryAbility_label",
         "startWindowIcon": "$media:imageWelcome",
         "startWindowBackground": "$color:start_window_background",
