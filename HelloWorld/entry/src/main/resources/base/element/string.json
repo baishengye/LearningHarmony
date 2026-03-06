@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Hello World Harmony"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description Harmony"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label Harmony"
+    }
+  ]
+}
