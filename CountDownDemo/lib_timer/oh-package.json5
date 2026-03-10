@@ -1,0 +1,10 @@
+{
+  "name": "lib_timer",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "./src/main/ets/pages/Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
+

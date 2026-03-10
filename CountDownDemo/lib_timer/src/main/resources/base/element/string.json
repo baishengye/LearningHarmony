@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "Lib_timerAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "Lib_timerAbility_label",
+      "value": "label"
+    }
+  ]
+}

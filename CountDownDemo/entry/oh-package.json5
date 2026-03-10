@@ -1,0 +1,13 @@
+
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "./src/main/ets/pages/Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "lib_timer": "file:../libs/lib_timer.har"
+  }
+}
+
